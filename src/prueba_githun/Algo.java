@@ -11,4 +11,12 @@ package prueba_githun;
  */
 public class Algo {
     
+    
+    private int algo;
+    
+   
+    
+    
+    
+    
 }
